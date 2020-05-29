@@ -16,7 +16,7 @@ var numRecentResponses = 8;
 var numAllResponses = 100;
 
 //These repos are excluded from the site
-var excluded_repos = ['old-kathyia-website', 'KIA-extensions', 'garysux', 'artfulmind', 'the-new-digital-school', 'lincolnanswers']
+var excluded_repos = ['kathyia-website', 'old-kathyia-website', 'KIA-extensions', 'garysux', 'artfulmind', 'the-new-digital-school', 'lincolnanswers']
 
 /**
  * Adds a list of recent posts and project pages on home page
