@@ -4,7 +4,7 @@ html {
 
 html, body {
 	margin: auto;
-	background: #fefefe;
+	background: #f8f8f8;
 }
 /* body {
 	font-family: "Vollkorn", Palatino, Times;
@@ -122,7 +122,7 @@ blockquote {
 }
 
 a {
-	color: #2484c1;
+	color: #1f4788;
 	text-decoration: none;
 }
 a:hover {
