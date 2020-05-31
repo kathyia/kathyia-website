@@ -6,12 +6,7 @@ html, body {
 	margin: auto;
 	background: #f8f8f8;
 }
-/* body {
-	font-family: "Vollkorn", Palatino, Times;
-	color: #333;
-	line-height: 1.4;
-	text-align: justify;
-} */
+
 body {
 	font-family: "Vollkorn", Palatino, Times;
 	/* font-family: 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif; */
@@ -27,7 +22,7 @@ body {
 	counter-reset: definition;
   
 	color: hsl(0, 5%, 10%);
-	background-color:#fefefe;
+	background-color:#f8f8f8;
   
 	text-rendering: optimizeSpeed;
 }
